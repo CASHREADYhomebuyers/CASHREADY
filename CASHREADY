@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CASHREADY Home Buyers</title>
+<style>
+body {font-family: 'Arial', sans-serif; margin: 0; padding: 0; background-color: #f4f4f4;}
+.header {background-color: #fff; padding: 10px 0; text-align: center;}
+.header img {max-width: 100px;}
+.nav {background-color: #333; color: #fff; padding: 10px 0; text-align: center;}
+.nav a {color: #fff; text-decoration: none; padding: 0 15px;}
+.nav a:hover {text-decoration: underline;}
+.main {padding: 20px;}
+.footer {background-color: #333; color: #fff; text-align: center; padding: 10px 0;}
+.card {background-color: #fff; border: 1px solid #ddd; border-radius: 5px; padding: 20px; margin-bottom: 20px;}
+</style>
+</head>
+<body>
+<div class="header">
+<img src="/mnt/data/Cashready logo 1 no back.png" alt="CASHREADY Home Buyers Logo">
+</div>
+<div class="nav">
+<a href="#">Home</a> |
+<a href="#">About Us</a> |
+<a href="#">Our Services</a> |
+<a href="#">Contact</a>
+</div>
+<div class="main">
+<h1>Welcome to CASHREADY Home Buyers</h1>
+<p>We specialize in purchasing homes quickly and for cash, catering to homeowners who seek a fast, straightforward, and hassle-free selling experience.</p>
+<div class="card">
+<img src="URL_OF_UMARS_IMAGE" alt="Umar Chatha">
+<h2>Umar Chatha</h2>
+<p>Owner/Partner at CASHREADY. With a strong focus in Southern California and an open arm to opportunities across the U.S., Umar leads with dedication and an entrepreneurial spirit.</p>
+<p>Email: familyinvestments1177@gmail.com</p>
+</div>
+<div class="card">
+<img src="URL_OF_MOISES_IMAGE" alt="Moises G. Madrid">
+<h2>Moises G. Madrid</h2>
+<p>Partner/Marketing at CASHREADY. Moises brings innovative marketing strategies and a deep understanding of customer needs to the table.</p>
+<p>Email: moisesmadrid11@gmail.com<br>Phone: 714-904-7130</p>
+</div>
+<div class="card">
+<img src="URL_OF_FABRICIOS_IMAGE" alt="Fabricio Lorenzo">
+<h2>Fabricio Lorenzo</h2>
+<p>Partner/Inspector at CASHREADY. Fabricio ensures every property is thoroughly inspected, upholding our commitment to transparency and trust.</p>
+<p>Email: familyinvestments1177@gmail.com<br>Phone: 714-654-3805</p>
+</div>
+</div>
+<div class="footer">
+<p>Contact us: cashreadyhomebuyers11@gmail.com | 1(714) 654-3805</p>
+<p>&copy; 2024 CASHREADY Home Buyers. All rights reserved.</p>
+</div>
+</body>
+</html>
